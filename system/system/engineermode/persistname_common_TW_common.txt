@@ -1,0 +1,9 @@
+com.emoji.keyboard.touchpal
+com.cootek.smartinputv5.skin.defaultwhite
+com.cootek.smartinputv5.language.oem.englishgb
+com.cootek.smartinputv5.language.oem.chs
+com.cootek.smartinputv5.language.oem.cht
+com.qiyi.video
+com.vova.android
+com.qidian.QDReader.traditional
+ctrip.english
