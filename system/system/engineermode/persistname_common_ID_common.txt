@@ -1,0 +1,8 @@
+com.lazada.android
+com.vova.android
+com.qidian.Int.reader
+id.co.babe
+com.jakarta.baca.lite
+com.msd.JTClient
+cn.wps.moffice_eng
+com.realmecomm.app

@@ -1,0 +1,3 @@
+data/app/com.lazada.android
+data/app/com.caiharbor.esim
+data/app/com.qidian.Int.reader
